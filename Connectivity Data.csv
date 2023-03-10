@@ -1,0 +1,1901 @@
+﻿StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Primary_Device,Device_ownership,Device ownership_4_TEXT,Device_duration,Device brand,Device_connectivity,Connection_Frequency,Download_speed,Upload_speed,Service_provider,Service provider_6_TEXT,Service_type,Service_payer,Service_expenditure,Payment_frequency,Data_allocation,Best_provider,Service_comparison,Reason to stay,Reason to stay_7_TEXT,Device usage,Device usage_6_TEXT,Confidence_1,Confidence_2,Confidence_3,Confidence_4,Confidence_5,Device_usage_time_1,Device_usage_overall,School name,Class taught,Class_size,Teaching_experience,Teacher_age,Most important,Rank importance_1,Rank importance_2,Rank importance_3,Rank importance_4,Rank importance_5,Rank importance_6,Rank importance_7,Rank importance_8,Rank importance_9,Device_usage_edtech,Teacher_gender,MiSchool_Usage,MiSchoolProductivity,MiSchool comment,MiSchool_Ease,MiSchool_Enjoyment
+21-01-23 21:00,21-01-23 21:06,IP Address,115.186.132.42,100,367,TRUE,21-01-23 21:06,R_1FnsLVLB15fMbzq,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,IPhone V,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,1.35,0.03,Telenor,,Prepaid,Own self,1500,Monthly,Up to 2GB,Mobilink,"Significantly worse
+","Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Somewhat confident,Fairly Confident,Slightly confident,"Very Confident
+",Fairly Confident,1,"More than 5 years
+",IMSB Nilore (762),"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",25,19,43,,1,2,3,4,5,6,7,8,9,"Less than 1 year
+",Male,120,5,-,2,2
+21-01-23 21:07,21-01-23 21:11,IP Address,115.186.132.42,100,237,TRUE,21-01-23 21:11,R_3imwjdIVQhTBdKm,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Huawei,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,0,0,Telenor,,Prepaid,Own self,700,Monthly,Up to 4GB,"Telenor
+",Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+",Fairly Confident,"Very Confident
+",Fairly Confident,Slightly confident,2,"More than 5 years
+",IMCG Pehount (715),"Class 1
+Ú©Ù„Ø§Ø³ 1
+",20,11,42,Teaching Avaids,1,7,4,6,2,5,3,8,9,"Less than 2 years
+",Female,30,2,-,2,5
+21-01-23 21:11,21-01-23 21:16,IP Address,115.186.132.42,100,249,TRUE,21-01-23 21:16,R_yjpJ3LWlmmcpah3,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Oppo,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,0,0,Telenor,,Prepaid,Own self,700,Monthly,Up to 4GB,"Telenor
+",Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Somewhat confident,Fairly Confident,Fairly Confident,Fairly Confident,Somewhat confident,3,"Less than 5 years
+",IMCG Pehount (715),"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",30,22,50,Need a good pattern (syllabus); Need best course (more effective syllabus),1,2,4,3,5,6,8,7,9,"Less than 1 year
+",Female,30,3,-,2,5
+21-01-23 21:16,21-01-23 21:24,IP Address,115.186.132.42,100,466,TRUE,21-01-23 21:24,R_1DzKBh6gs69OTSV,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,1,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,0,0,Telenor,,Prepaid,Own self,700,Monthly,Up to 4GB,"Telenor
+",Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Somewhat confident,"Very Confident
+","Very Confident
+",Somewhat confident,Somewhat confident,3,"More than 5 years
+",IMCG Pehount (715),"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",20,12,43,"Regular students; Provide technical assistance (training, new tools, staff assistant, usage of new devices)",1,3,5,4,6,7,8,2,9,"Less than 1 year
+",Female,20,3,-,2,4
+21-01-23 21:24,21-01-23 21:29,IP Address,115.186.132.42,100,303,TRUE,21-01-23 21:29,R_334ohG25isuinwO,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Huawei,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,0,0,Zong,,Prepaid,Own self,3500,Monthly,Up to 10G,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Slightly confident,Slightly confident,Fairly Confident,Somewhat confident,Slightly confident,2,"Less than 5 years
+",IMCG Tarlai No 2 (742),"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",34,22,43,Subject teacher; syllabus,8,7,5,1,3,6,4,2,9,"Less than 1 year
+",Female,15,4,I am used to this tool therefore I prefer it to other tools,3,4
+21-01-23 21:29,21-01-23 21:34,IP Address,115.186.132.42,100,270,TRUE,21-01-23 21:34,R_2fxSfwOYUotwGYu,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Huawei,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a week,0,0,Ufone,,Prepaid,Own self,1500,Monthly,Up to 500,Ufone,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Slightly confident,Somewhat confident,Slightly confident,Somewhat confident,Slightly confident,2,"Less than 1 year
+",IMCG Tarlai No 2 (742),"Class 1
+Ú©Ù„Ø§Ø³ 1
+",45,29,51,Subject teachers,6,7,4,8,1,2,5,3,9,"Less than 1 year
+",Female,15,5,Because I am used to this tool therefore I prefer it,3,4
+21-01-23 21:34,21-01-23 21:40,IP Address,115.186.132.42,100,350,TRUE,21-01-23 21:40,R_cwnpDXlpvY2OJqN,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Techno,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,2.1,1.9,Zong,,Prepaid,Own self,2000,Every 2 weeks,Do not know,Zong,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Slightly confident,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,2,"Less than 2 years
+",IMCG Tarlai No 2 (742),"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",30,17,40,we need subject specialist teachers. Math teachers specifically,4,7,3,1,5,6,8,2,9,"Less than 1 year
+",Female,15,5,1) It is very difficult to use; 2) We already taught this lesson in regular syllabus so no need to teach again,3,3
+21-01-23 21:40,21-01-23 21:44,IP Address,115.186.132.42,100,253,TRUE,21-01-23 21:44,R_1jcG8Nxli5fFGea,,,,,33.7233,73.0435,anonymous,EN,"Computer
+
+",I own it,,0.33,HP (Computer brand),"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,2.5,1.7,Zong,,Prepaid,Own self,600,Monthly,Up to 5GB,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,Fairly Confident,Fairly Confident,"Very Confident
+","Very Confident
+",3,"More than 5 years
+",IMCG Tarlai No 2 (742),"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",50,0.5,23,"Lesson plan, assessments, class activities, Independent practice / group practice",4,3,2,1,6,5,7,8,9,"Less than 1 year
+",Female,20,2,TIP is very easy to use (I enjoy taking pictures of my students' quizzes and uploading them). It's an innovative way of recording students' data,1,5
+21-01-23 21:45,21-01-23 21:50,IP Address,115.186.132.42,100,287,TRUE,21-01-23 21:50,R_24BgZbErwbis94m,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Infinix Note 7,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Other internet source
+ Ø¯ÛŒÚ¯Ø± Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Û’ Ø°Ø±Ø§Ø¦Ø¹
+",A few times a day,3.5,4,Ufone,,Postpaid,Own self,750,Monthly,More than 10GB,Mobilink,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Locked into postpaid plan
+Ù¾ÙˆØ³Ù¹ Ù¾ÛŒÚˆ Ù¾Ù„Ø§Ù†  Ú©ÛŒ ÙˆØ¬Û Ø³Û’ Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Not at all confident,Slightly confident,"Very Confident
+",Somewhat confident,Somewhat confident,2,"Less than 3 years
+",IMSG (I-V) Humak 534,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",51,16,43,(need translation),2,4,1,3,5,8,7,6,9,"Less than 3 years
+",Female,80,5,(need translation),3,4
+21-01-23 21:50,21-01-23 21:53,IP Address,115.186.132.42,100,208,TRUE,21-01-23 21:53,R_1eY4KO99cnUmW00,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,5,Huawei,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,2.2,1.4,Telenor,,Prepaid,Family,750,Monthly,Up to 10G,"Telenor
+",Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Locked into postpaid plan
+Ù¾ÙˆØ³Ù¹ Ù¾ÛŒÚˆ Ù¾Ù„Ø§Ù†  Ú©ÛŒ ÙˆØ¬Û Ø³Û’ Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Not at all confident,Fairly Confident,"Very Confident
+",Somewhat confident,Slightly confident,3,"More than 5 years
+",IMSG (I-V) Humak 534,"Class 1
+Ú©Ù„Ø§Ø³ 1
+",57,13,34,"Regularly, Punctuality",5,2,1,3,6,4,7,8,9,"Less than 3 years
+",Female,40,10,(need translation),3,5
+21-01-23 21:54,21-01-23 21:58,IP Address,115.186.132.42,100,276,TRUE,21-01-23 21:58,R_3NHSTI1YTrv5c5B,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Samsung Galaxy A03,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,6.9,0.9,Ufone,,Prepaid,Own self,750,Monthly,More than 10GB,Mobilink,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+",for using of my nephew,Somewhat confident,"Very Confident
+",Fairly Confident,Somewhat confident,Somewhat confident,3,"Less than 5 years
+",IMSG (I-V) Humak 534,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",55,12,52,"Discipline, students' punctuality",1,5,3,4,7,8,6,2,9,"Less than 3 years
+",Female,40,6,(need translation),3,4
+21-01-23 21:59,21-01-23 22:04,IP Address,115.186.132.42,100,314,TRUE,21-01-23 22:04,R_1M4KnSJgtPjDGTr,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Huawei,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Other internet source
+ Ø¯ÛŒÚ¯Ø± Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Û’ Ø°Ø±Ø§Ø¦Ø¹
+",A few times a day,0,0,Zong,,Prepaid,Own self,700,Monthly,More than 10GB,Zong,Similar,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+",Use of family members,Slightly confident,Fairly Confident,Somewhat confident,Slightly confident,Slightly confident,2,"Less than 3 years
+",IMSG (I-V) Humak 534,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",40,36,57,(need translation),4,5,6,1,2,8,7,3,9,"Less than 3 years
+",Female,40,7,(need translation),3,4
+23-01-23 16:19,23-01-23 16:26,IP Address,65.112.8.21,100,423,TRUE,23-01-23 16:26,R_3p8UfcjEmUDEsFg,,,,,42.3737,-71.1284,anonymous,EN,Smartphone,I own it,,2,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,0,0,Mobilink,,Prepaid,Own self,350,Weekly,More than 10GB,Mobilink,Similar,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Somewhat confident,Fairly Confident,Somewhat confident,Somewhat confident,Not at all confident,2,"More than 5 years
+",IMSB (I-V) Chak Kamdar 571,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",15,22,40,Guid Plan; A.V. - aids; Refresher courses,6,7,8,1,5,2,3,4,9,"Less than 1 year
+",Male,30,15,Recent digital system is introduced to us which enhance educational level as well as develop interest in it,2,5
+23-01-23 16:27,23-01-23 16:32,IP Address,65.112.8.21,100,339,TRUE,23-01-23 16:32,R_eFeNRpIBqlYVdF7,,,,,42.3737,-71.1284,anonymous,EN,Smartphone,I own it,,1,Tecno Spark 6 Go,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a week,1.8,5.4,Telenor,,Prepaid,Own self,700,Monthly,Up to 10G,Ufone,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Somewhat confident,Fairly Confident,Slightly confident,Fairly Confident,"Very Confident
+",6,"Less than 4 years
+",IMSB (I-V) Chak Kamdar 571,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",12,2,21,Require more teachers,1,2,4,3,5,6,7,8,9,"Less than 1 year
+",Female,15,3,I enjoyed TIP because we have lesson plans that so its relaxing for teachers,1,5
+23-01-23 16:33,23-01-23 16:37,IP Address,65.112.8.21,100,227,TRUE,23-01-23 16:37,R_1lo4NiWFMFJfG74,,,,,42.3737,-71.1284,anonymous,EN,Smartphone,I own it,,5,Samsung Galaxy II,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,4.1,0,Warid,,Postpaid,Own self,1000,Monthly,More than 10GB,Ufone,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",3,"More than 5 years
+",IMSB (I-V) Chak Kamdar 571,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",10,22,49,Required more teachers,2,1,3,7,5,4,8,6,9,"Less than 1 year
+",Male,30,0,We enjoy because this is a new tool for me in teaching,2,4
+23-01-23 16:41,23-01-23 16:46,IP Address,65.112.8.21,100,275,TRUE,23-01-23 16:46,R_2cwt6hhajhQCIN2,,,,,42.3737,-71.1284,anonymous,EN,Smartphone,I own it,,5,Samsung J-7,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,3.2,0.9,Telenor,,Postpaid,Own self,1000,Monthly,More than 10GB,"Telenor
+",Similar,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Games
+Ú¯ÛŒÙ…Ø²
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+,Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+",TIP,Somewhat confident,Somewhat confident,Fairly Confident,Somewhat confident,Somewhat confident,5,"More than 5 years
+",IMCG Korang Town 920 Evening,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",45,15,40,Workbook,2,3,5,4,6,7,8,1,9,"More than 5 years
+",Female,30,15,Easy to use but not data problem,3,5
+23-01-23 16:46,23-01-23 16:50,IP Address,65.112.8.21,100,256,TRUE,23-01-23 16:50,R_cT0IEA45BX6X9uN,,,,,42.3737,-71.1284,anonymous,EN,Smartphone,I own it,,2,Tecno 8-C,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Internet device at friend or familyâ€™s home
+Ø¯ÙˆØ³Øª ÛŒØ§ Ø±Ø´ØªÛ Ø¯Ø§Ø±ÙˆÚº Ú©Û’ Ú¯Ú¾Ø± Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+",A few times a day,0,0,Ufone,,Prepaid,Own self,750,Every 2 weeks,Up to 3GB,Ufone,Significantly better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,"Very Confident
+","Very Confident
+",Not at all confident,Slightly confident,3,"Less than 5 years
+",IMCG Korang Town 920 Evening,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",51,17,50,Size of class must be less,2,3,4,5,7,8,6,1,9,"Less than 3 years
+",Female,30,2,I can't use mobile every time,3,1
+23-01-23 16:50,23-01-23 16:55,IP Address,65.112.8.21,100,256,TRUE,23-01-23 16:55,R_2XcCES53ercF673,,,,,42.3737,-71.1284,anonymous,EN,Smartphone,I own it,,4,Tecno VC: 424018,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,56.8,30.6,Zong,,Prepaid,Own self,900,Monthly,More than 10GB,Zong,Significantly better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,Fairly Confident,"Very Confident
+",Not at all confident,Slightly confident,3,"More than 5 years
+",IMCG Korang Town 920 Evening,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",50,12,38,Student numbers should be low in class (30 to 35),1,8,2,4,5,7,6,3,9,"Less than 2 years
+",Female,40,3,We were already using syllabus book so there were no need to add some new version of book,2,1
+24-01-23 22:55,24-01-23 23:00,IP Address,50.234.189.37,100,310,TRUE,24-01-23 23:00,R_db7088AevQrh9gl,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,3,Redmi Note 9s,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,0,0,Mobilink,,Prepaid,Own self,1000,Monthly,Up to 10G,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Not at all confident,Somewhat confident,Fairly Confident,"Very Confident
+",Somewhat confident,6,"More than 5 years
+",IMCG Magalla Town,"Class 1
+Ú©Ù„Ø§Ø³ 1
+",44,3,27,"Required more space, there must be multimedia for video lectures",3,5,6,8,2,1,4,7,9,"Less than 3 years
+",Female,60,3,"I have used many tools, like Teams, Google Meet, Blended E-learning project. As compare to it, so I found it easier not difficult.",2,4
+24-01-23 23:00,24-01-23 23:03,IP Address,50.234.189.37,100,196,TRUE,24-01-23 23:03,R_1rqVgyoFUC7ttoe,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,3,LG Mobile,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,1.3,3.7,Ufone,,Prepaid,Own self,800,Monthly,Do not know,Zong,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Fairly Confident,Somewhat confident,Fairly Confident,Somewhat confident,3,"Less than 4 years
+",IMCG Magalla Town,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",44,11,46,,1,3,2,4,6,5,9,7,8,"Less than 4 years
+",Female,60,2,It make me to learn something new,2,3
+24-01-23 23:04,24-01-23 23:08,IP Address,50.234.189.37,100,272,TRUE,24-01-23 23:08,R_cJiPMIZW7umWM4V,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,2,Samsung 02,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,1.6,0,Zong,,Prepaid,"Family
+Ø",500,Monthly,Do not know,Zong,Significantly better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Games
+Ú¯ÛŒÙ…Ø²
+",,Somewhat confident,"Very Confident
+","Very Confident
+",Somewhat confident,Slightly confident,2,"Less than 5 years
+",IMCG Magalla Town,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",47,32,57,A child learn better through play,1,2,3,6,4,5,7,8,9,"Less than 4 years
+",Female,60,2,A child learn more through play,1,5
+24-01-23 23:09,24-01-23 23:13,IP Address,50.234.189.37,100,290,TRUE,24-01-23 23:13,R_R9cGDQKHX9m5hwB,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,3,Samsung GT-I9060I,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,0,0,Zong,,Prepaid,"Family
+Ø",700,Monthly,Do not know,Zong,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,"Very Confident
+","Very Confident
+","Very Confident
+",Fairly Confident,6,"Less than 5 years
+",IMCG Magalla Town,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",43,11,43,,1,3,2,4,5,6,8,7,9,"Less than 4 years
+",Female,50,5,We enjoy using TIP so that teaching students is also joyful. The main things are one you provided workbooks to students and using tech tool is also amazing,1,5
+25-01-23 6:17,25-01-23 6:22,IP Address,50.234.189.37,100,260,TRUE,25-01-23 6:22,R_w59Bz4yCcUas4YF,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,2,IPhone 7 Plus,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,8.5,1.7,Ufone,,Prepaid,"Family
+Ø",700,Monthly,More than 10GB,Ufone,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",5,"More than 5 years
+",IMCG Magalla Town,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",42,7,28,"Classroom space, classroom needs (board, markers)",3,1,2,5,4,6,7,9,8,"Less than 4 years
+",Female,40,2,I enjoy using TIP because this software has made quite simple for teachers to take class tests and then upload them. It has also made available for the the teachers various tech tools that are very helpful in achieving the goals and objectives.,2,5
+25-01-23 6:22,25-01-23 6:26,IP Address,50.234.189.37,100,222,TRUE,25-01-23 6:26,R_b8cDpUmQlH8IKMF,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,2,Tecno Spark I,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,24.1,17,Telenor,,Prepaid,Own self,600,Weekly,Do not know,Zong,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",Fairly Confident,3,"More than 5 years
+",IMCG Magalla Town,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",46,10,32,"Classroom space, classroom needs (board, marker)",3,1,2,5,4,6,7,9,8,"Less than 4 years
+",Female,40,2,I enjoy TIP class because there are so many informating things and also activities,2,5
+25-01-23 6:26,25-01-23 6:28,IP Address,50.234.189.37,100,157,TRUE,25-01-23 6:28,R_2PqfMUCQqULITpA,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,6,Tecno Spark 6,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,0,0,Telenor,,Postpaid,Own self,600,Monthly,Up to 2GB,"Telenor
+",Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Slightly confident,Fairly Confident,"Very Confident
+",Slightly confident,Slightly confident,3,"More than 5 years
+","IMSG (I-VIII), ShahdraKalan","Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",12,7,32,Learning by doing,1,3,4,2,5,8,7,6,9,"Less than 1 year
+",Female,40,7,No,4,2
+25-01-23 6:28,25-01-23 6:31,IP Address,50.234.189.37,100,160,TRUE,25-01-23 6:31,R_Amkr0qnO2ZHtQBj,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,6,Samsung A32,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,0,0,Ufone,,Postpaid,"Family
+Ø",1400,Monthly,Up to 10G,"Telenor
+",Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,"Very Confident
+","Very Confident
+",Fairly Confident,Slightly confident,3,"More than 5 years
+","IMSG (I-VIII), ShahdraKalan","Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",17,11,39,"Physical space, learning by doing",1,2,3,4,7,8,6,9,5,"Less than 2 years
+",Female,40,7,No,3,2
+25-01-23 18:57,25-01-23 22:09,IP Address,50.234.189.37,100,11503,TRUE,25-01-23 22:09,R_3qvyC2Q4sHph1G4,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,6,Vivo Y335 Model 2021,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,30,0,Mobilink,,Prepaid,Own self,2000,Weekly,More than 10GB,Mobilink,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+","Very Confident
+",Somewhat confident,Fairly Confident,"Very Confident
+",6,"More than 5 years
+","IMSB (I-V), KotHathial Q.A.","Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",30,16,44,Professional education and skills. Command over the sujct ,1,3,2,4,5,6,8,7,9,"More than 5 years
+",Male,10,1,"We like to use it because it is helpful, but we have sign-in problems",3,4
+26-01-23 5:44,26-01-23 5:49,IP Address,50.234.189.37,100,322,TRUE,26-01-23 5:49,R_25YNzXw88AcgUaz,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,5,Oppo Reno 6,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,1.4,6.6,Zong,,Prepaid,Own self,2000,Weekly,More than 10GB,Ufone,Similar,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,Fairly Confident,"Very Confident
+",Fairly Confident,Fairly Confident,3,"More than 5 years
+","IMSB (I-V), KotHathial Q.A.","Class 5
+Ú©Ù„Ø§Ø³ 5
+",30,14,40,Parents invovlement,2,3,4,5,6,7,8,1,9,"More than 5 years
+",Male,10,1,"Having problem in signing in, connectivity issues",3,4
+26-01-23 5:50,26-01-23 5:56,IP Address,50.234.189.37,100,357,TRUE,26-01-23 5:56,R_9zRdBHlJVBg6N3j,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,2.5,Tecno B1f,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,0.5,0,Ufone,,Prepaid,Own self,1000,Monthly,Up to 5GB,Ufone,Similar,"Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,"Very Confident
+",Somewhat confident,Somewhat confident,Somewhat confident,2,"More than 5 years
+","IMSB (I-V), KotHathial Q.A.","Class 1
+Ú©Ù„Ø§Ø³ 1
+",30,26,52,Applying new technologies required by time,3,1,2,4,5,6,7,8,9,"Less than 1 year
+",Male,20,2,I haven't used TIP tech tool yet I can't comment on this question,3,3
+26-01-23 5:59,26-01-23 6:12,IP Address,50.234.189.37,100,768,TRUE,26-01-23 6:12,R_1IARmc9djzmI3ex,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,1,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,0,0,Zong,,Prepaid,Own self,1000,Weekly,Up to 3GB,Zong,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Not at all confident,Fairly Confident,Fairly Confident,Not at all confident,Not at all confident,2,"Less than 5 years
+",BECS 73-76,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",30,20,40,Net connection; New Tools; New technology,4,1,2,3,5,8,7,6,9,"Less than 1 year
+",Female,15,4,It's good as compare to others. It's new for us,2,4
+26-01-23 6:12,26-01-23 6:16,IP Address,50.234.189.37,100,229,TRUE,26-01-23 6:16,R_3lyOGJuHey6enPs,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,2,Oppo A15,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,0,0,Ufone,,Prepaid,Own self,500,Monthly,Up to 4GB,Ufone,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,Not at all confident,2,"More than 5 years
+",BECS 73-76,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",10,20,40,Furniture - electricity; less support of parents; toilet issue; IT technologies,1,4,2,3,5,6,8,7,9,"Less than 3 years
+",Female,30,15,This is so interesting students learn with joy and keen interest,2,5
+26-01-23 6:16,26-01-23 6:21,IP Address,50.234.189.37,100,273,TRUE,26-01-23 6:21,R_3sstFPOGoGFX9QJ,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,3,Oppo A1k,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,1.5,11.1,Telenor,,Prepaid,Own self,1000,Weekly,Up to 10G,"Telenor
+",Similar,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Somewhat confident,Somewhat confident,"Very Confident
+",Fairly Confident,Somewhat confident,6,"More than 5 years
+",BECS 73-76,"Class 1
+Ú©Ù„Ø§Ø³ 1
+",9,3,24,Electricity; Furniture chairs; IT tools; Net tools; Need more support by parents,1,2,3,4,5,7,6,8,9,"Less than 3 years
+",Female,40,15,Children improvement / interest is the best part using TIP. That's why I enjoy,2,5
+26-01-23 6:21,26-01-23 6:25,IP Address,50.234.189.37,100,229,TRUE,26-01-23 6:25,R_2SxbLrx7yAlYKtd,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,5,Oppo A12e,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,11.8,3,Ufone,,Prepaid,"Family
+Ø",2500,Monthly,More than 10GB,Ufone,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,"Very Confident
+",Fairly Confident,Fairly Confident,Fairly Confident,3,"More than 5 years
+",BECS 73-76,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",11,15,32,We need digital tech tools and mobile internet connectivity also,1,5,3,2,4,7,6,8,9,"Less than 5 years
+",Female,10,5,Because its improve our teaching techniques also,3,4
+26-01-23 6:25,26-01-23 6:30,IP Address,50.234.189.37,100,284,TRUE,26-01-23 6:30,R_vYnBFs5ZtBLYJeV,,,,,42.3287,-71.114,anonymous,EN,Smartphone,I own it,,0.2,Tecno LE6,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,2.3,8.8,Telenor,,Prepaid,Own self,2000,Weekly,Up to 10G,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Not at all confident,Fairly Confident,Somewhat confident,Slightly confident,Not at all confident,6,"Less than 5 years
+",BECS 73-76,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",13,21,41,(1) School Building; (2) Furniture - chairs. Net facilities,4,2,3,1,7,6,5,8,9,"Less than 1 year
+",Female,15,10,Using TIP Learners usually get better lessons. And as a teacher we can judge the improvement of a student. This is good way of teaching,2,5
+19-01-23 22:36,19-01-23 22:50,IP Address,182.191.151.28,100,842,TRUE,19-01-23 22:50,R_bshKuTNko4NV1Ml,,,,,30,70,anonymous,EN,Smartphone,I own it,,2,Oppo Reno 6 ,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,4.8,2.8,Ufone,,Prepaid,Own self,750,Monthly,Up to 2GB,Ufone,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Games
+Ú¯ÛŒÙ…Ø²
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,"Very Confident
+",Fairly Confident,"Very Confident
+","Very Confident
+",4,"More than 5 years
+",Islamabad Model School G-9/3,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",35,1,25,Text books and additional teachers ,1,2,4,5,7,8,6,3,9,"Less than 1 year
+",Female,30,5,"Its not perfect nor is it bad. It works, that's what matters. ",2,3
+19-01-23 22:38,19-01-23 23:02,IP Address,116.71.184.140,100,1418,TRUE,19-01-23 23:02,R_3iU3ldajZtG8Q4x,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,3,Oppo,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,4.7,6.9,Ufone,,Prepaid,Own self,4500,Monthly,More than 10GB,Zong,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Games
+Ú¯ÛŒÙ…Ø²
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,6,"Less than 3 years
+",Islamabad Model School G-9/3,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",35,23,49,A.v aids,3,4,1,2,5,9,6,7,8,"More than 5 years
+",Female,10,25,Nothing,2,5
+19-01-23 22:39,19-01-23 23:03,IP Address,182.191.159.76,100,1423,TRUE,19-01-23 23:03,R_SObED8ZiZ52aAz7,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1.5,Infinix note 10,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,5.9,2.9,Ufone,,Prepaid,Own self,1000,Monthly,Up to 4GB,Mobilink,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",Fairly Confident,2,"More than 5 years
+",Islamabad Model School G-9/3,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",38,17,41,Strength should be not more than 30,3,2,4,1,5,6,7,8,9,"More than 5 years
+",Female,30,35,Easy to use,2,5
+19-01-23 22:35,19-01-23 23:06,IP Address,182.191.159.76,100,1820,TRUE,19-01-23 23:06,R_1o5bQm5o8t2nrgI,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,0.5,Samsung A71,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,4.9,2.2,Ufone,,Prepaid,Own self,800,Monthly,Up to 2GB,Mobilink,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",4,"More than 5 years
+",Islamabad Model School G-9/3,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",35,22,45,Teaching should be curriculum based not text book based,1,3,7,2,5,6,8,4,9,"More than 5 years
+",Female,20,10,Easy to use,1,5
+19-01-23 22:38,19-01-23 23:06,IP Address,116.71.183.51,100,1682,TRUE,19-01-23 23:06,R_3Lb92DwgSYIhdgJ,,,,,30,70,anonymous,EN,Smartphone,I own it,,2,Infinix hot 10 ,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,10.3,6.9,Ufone,,Prepaid,Own self,800,Monthly,Up to 2GB,Mobilink,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,"Very Confident
+","Very Confident
+",Not at all confident,Not at all confident,2,"More than 5 years
+",Islamabad Model School G-9/3,"Class 5
+Ú©Ù„Ø§Ø³ 5
+",35,18,43,Teaching should be curriculum based not text book based ,3,4,2,1,6,5,7,8,9,"More than 5 years
+",Female,20,10,Easiness ,2,5
+09-02-23 9:11,09-02-23 9:29,IP Address,115.186.106.13,100,1077,TRUE,09-02-23 9:29,R_2SwZUZYY1AaQ2Lh,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,20,Oppo a5 2020,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,2.9,2.9,Ufone,,Prepaid,"Family
+Ø",700,Monthly,Do not know,Zong,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",3,"Less than 5 years
+","456_IMSG (I-X), Noor PurShahan","Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",60,14,39,8,2,1,3,4,6,5,7,8,9,"More than 5 years
+",Female,40,30,It's very basic for students to understand ,2,4
+09-02-23 19:57,09-02-23 20:13,IP Address,37.111.189.32,100,950,TRUE,09-02-23 20:13,R_2tGtwNBUqIwM5AN,,,,,31.5511,74.3437,anonymous,EN,Smartphone,I own it,,0.6,Honor 7c,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a week,2.8,4.2,Telenor,,Postpaid,Own self,1200,Monthly,Up to 4GB,Mobilink,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Fairly Confident,"Very Confident
+","Very Confident
+",Fairly Confident,2,"More than 5 years
+","434_IMSB (I-V), Sihali","Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",11,1,28,,1,4,2,3,5,6,7,8,9,"Less than 5 years
+",Male,30,1,Because it is convenient. Teacher has to do less paperwork ,2,5
+09-02-23 20:32,09-02-23 20:52,IP Address,119.160.64.252,100,1212,TRUE,09-02-23 20:52,R_6lYRBTQ9S7tU8xP,,,,,33.6564,73.1136,anonymous,EN,Smartphone,I own it,,5,Infinix,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,200,500,Ufone,,Prepaid,Own self,2000,Monthly,Up to 5GB,Ufone,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Slightly confident,Somewhat confident,Fairly Confident,Not at all confident,Slightly confident,2,"More than 5 years
+",511_IMSG (I-X) Gagri,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",54,12,47,Additional teachers,1,2,4,3,5,7,6,8,9,"Less than 1 year
+",Female,30,5,Because of lack of time,2,1
+09-02-23 20:28,09-02-23 21:02,IP Address,111.119.178.153,100,2003,TRUE,09-02-23 21:02,R_2uPSWDS5WGQ35u4,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1,Infinics ,"Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a week,13.1,22.3,Zong,,Prepaid,"Family
+Ø",2000,Monthly,Up to 5GB,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+","Very Confident
+","Very Confident
+",Not at all confident,Not at all confident,2,"More than 5 years
+",536_IMSG (I-V) Boora Bangial,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",30,20,45,2,2,6,7,3,5,4,1,9,8,"More than 5 years
+",Female,30,10,No issue,2,2
+09-02-23 20:30,09-02-23 21:13,IP Address,111.119.178.153,100,2563,TRUE,09-02-23 21:13,R_1H01sLEAM9ns1Fr,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1,Infix,"Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a week,13.2,22.3,Telenor,,Prepaid,Own self,1000,Monthly,Up to 3GB,Zong,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Other reasons
+     Ø¯ÛŒÚ¯Ø± ÙˆØ¬ÙˆÛØ§Øª
+",No issue,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+",,Somewhat confident,"Very Confident
+","Very Confident
+",Not at all confident,Not at all confident,1,"More than 5 years
+",536_IMSG (I-V) Boora Bangial,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",30,25,45,3,1,2,3,4,5,6,7,8,9,"More than 5 years
+",Female,60,30,No issue,2,2
+09-02-23 10:23,09-02-23 21:18,IP Address,111.119.178.136,100,39315,TRUE,09-02-23 21:18,R_3ltRkz2ncHLNIFu,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,2,infinix,"Internet device at friend or familyâ€™s home
+Ø¯ÙˆØ³Øª ÛŒØ§ Ø±Ø´ØªÛ Ø¯Ø§Ø±ÙˆÚº Ú©Û’ Ú¯Ú¾Ø± Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+,Internet device at a paid internet cafe
+
+Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ Ø§Ø¯Ø§ Ø´Ø¯Û ÛŒØ§  Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©ÛŒÙÛ’Ù…ÛŒÚº
+
+",Throughout the day,4,2,Zong,,Prepaid,Own self,1200,Daily,More than 10GB,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+",,"Very Confident
+",Fairly Confident,Fairly Confident,Fairly Confident,Somewhat confident,6,"Less than 1 year
+",537_IMSG (I-V) Mohri Mughal,"Class 1
+Ú©Ù„Ø§Ø³ 1
+",32,2,29,Learninh,2,5,6,1,7,3,8,9,4,"Less than 2 years
+",Female,32,2,fg,2,5
+09-02-23 20:29,09-02-23 21:19,IP Address,111.119.178.153,100,2977,TRUE,09-02-23 21:19,R_2bJB2QZ3w3FKzM9,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1,Honor,"Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a week,9.5,14.5,Telenor,,Prepaid,Own self,2000,Monthly,Up to 5GB,Zong,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Other reasons
+     Ø¯ÛŒÚ¯Ø± ÙˆØ¬ÙˆÛØ§Øª
+",No issue,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+",,Fairly Confident,"Very Confident
+","Very Confident
+",Not at all confident,Not at all confident,1,"More than 5 years
+",536_IMSG (I-V) Boora Bangial,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",20,25,47,4,2,4,1,3,5,6,7,8,9,"Less than 4 years
+",Female,80,30,No issue,2,2
+09-02-23 20:45,09-02-23 21:37,IP Address,111.119.178.153,100,3101,TRUE,09-02-23 21:37,R_2uNFKZhjwsjZ1Am,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1,Zong,"Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a week,0.8,16,Telenor,,Prepaid,Own self,1000,Monthly,Up to 3GB,Ufone,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+",Fairly Confident,Fairly Confident,Slightly confident,Somewhat confident,5,"More than 5 years
+",536_IMSG (I-V) Boora Bangial,"Class 5
+Ú©Ù„Ø§Ø³ 5
+",23,16,46,5,2,3,1,4,6,5,7,8,9,"Less than 5 years
+",Female,60,5,Easy to use,2,5
+09-02-23 20:42,09-02-23 21:46,IP Address,111.119.178.153,100,3898,TRUE,09-02-23 21:47,R_pFZG7IWnUvCEUN3,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,2,MI note 10,"Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,6.5,23.5,Zong,,Postpaid,"School
+Ø",1500,Monthly,Up to 5GB,Zong,Significantly better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,5,"Less than 5 years
+",536_IMSG (I-V) Boora Bangial,"Class 1
+Ú©Ù„Ø§Ø³ 1
+",21,12,54,Healthy learning environment ,3,1,2,4,6,7,5,8,9,"Less than 5 years
+",Female,35,10,Due to best educational technology and interesting and conceptual lesson plans ,2,4
+09-02-23 21:45,09-02-23 22:06,IP Address,119.160.64.84,100,1256,TRUE,09-02-23 22:06,R_3gRXzp5eo3F7ane,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,4,Samsung galaxy c5,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,7.9,1.8,Mobilink,,Postpaid,Own self,3000,Weekly,More than 10GB,Mobilink,Worse,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Somewhat confident,Somewhat confident,Slightly confident,Slightly confident,3,"Less than 5 years
+",537_IMSG (I-V) Mohri Mughal,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",20,1,27,,1,3,2,4,6,5,8,9,7,"Less than 5 years
+",Female,120,200,no,2,3
+09-02-23 21:48,09-02-23 22:06,IP Address,115.186.169.92,100,1094,TRUE,09-02-23 22:06,R_1qWoyy9lo8sPrxW,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,7,Infinix,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,9.9,9.9,Ufone,,Prepaid,Own self,3000,Monthly,Do not know,Ufone,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,"Very Confident
+",Fairly Confident,Somewhat confident,Somewhat confident,2,"More than 5 years
+",228_IMS (I-V) F-6/1,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",32,22,50,,2,3,1,4,5,6,7,8,9,"More than 5 years
+",Female,20,1,Better,2,4
+09-02-23 21:47,09-02-23 22:31,IP Address,39.40.78.79,100,2652,TRUE,09-02-23 22:31,R_3iqUJbCURzAYfcy,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,1,Oppo F21 pro,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,8.1,1.6,Ufone,,Postpaid,"Family
+Ø",1000,Monthly,Up to 2GB,Warid,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,"Very Confident
+","Very Confident
+",Fairly Confident,"Very Confident
+",6,"More than 5 years
+",228_IMS (I-V) F-6/1,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",38,14,39,8,3,4,2,1,5,6,7,8,9,"More than 5 years
+",Female,120,2,Easy way of teaching & work book ,2,4
+09-02-23 22:25,09-02-23 22:33,IP Address,103.255.6.255,100,477,TRUE,09-02-23 22:33,R_2e8uAt7MBXVuDBp,,,,,34.1736,71.6792,anonymous,EN,Smartphone,I own it,,1,Samsung A 3 1,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,2,2,Zong,,Prepaid,Own self,500,Monthly,Up to 10G,Ufone,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Slightly confident,Slightly confident,Slightly confident,Slightly confident,3,"Less than 3 years
+",644_IMSB (I-V) Seri Saral,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",28,32,52,Materials ,1,2,3,4,5,7,6,8,9,"Less than 3 years
+",Male,10,4,Offline.  Very in details,2,5
+09-02-23 22:00,09-02-23 22:37,IP Address,103.255.6.255,100,2186,TRUE,09-02-23 22:37,R_1QAPzjUAVTljTh0,,,,,34.1736,71.6792,anonymous,EN,Smartphone,Other,Colleague ,1,Samsong,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a week,2,2,Zong,,Prepaid,Own self,750,Monthly,Up to 5GB,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Slightly confident,"Very Confident
+","Very Confident
+","Very Confident
+",Somewhat confident,3,"Less than 2 years
+",644_IMSB (I-V) Seri Saral,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",25,17,43,5,3,2,1,5,4,8,6,7,9,"Less than 2 years
+",Male,60,1,Good App,2,5
+09-02-23 22:40,09-02-23 23:01,IP Address,119.160.64.192,100,1213,TRUE,09-02-23 23:01,R_AzBmwNvaQoW7Dah,,,,,33.6054,73.0354,anonymous,EN,Smartphone,I own it,,1,i phone 8,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,2,2,Mobilink,,Prepaid,Own self,3000,Daily,Up to 500,Mobilink,Significantly better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",2,"Less than 4 years
+",647_IMSB (I-V) Golra,"Class 1
+Ú©Ù„Ø§Ø³ 1
+",40,26,45,time,1,3,2,5,4,6,7,8,9,"Less than 4 years
+",Male,30,5,pasand ,2,1
+09-02-23 22:30,09-02-23 23:01,IP Address,119.160.64.166,100,1881,TRUE,09-02-23 23:01,R_1fcSWUGt7Em7ibY,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,2,Tecno,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Never,2.9,3,Zong,,Prepaid,Own self,1500,Monthly,Up to 4GB,Zong,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Somewhat confident,Slightly confident,Not at all confident,Not at all confident,3,"Less than 2 years
+",517_IMSG (I-VIII) Rajwal,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",26,10,41,7,3,1,6,4,2,7,5,9,8,"Less than 3 years
+",Female,40,8,Tip bacho ko basic method aa jye ga,2,4
+09-02-23 22:39,09-02-23 23:05,IP Address,103.255.7.32,100,1538,TRUE,09-02-23 23:05,R_2aLcDlTXVuWLTEJ,,,,,33.6874,73.0555,anonymous,EN,Smartphone,I own it,,1,Huawei Y7 prime,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,9.1,9.9,Zong,,Prepaid,Own self,3000,Weekly,Up to 4GB,Zong,Similar,"Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Not at all confident,2,"Less than 5 years
+",537_IMSG (I-V) Mohri Mughal,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",20,17,42,,1,3,2,4,5,7,9,8,6,"More than 5 years
+",Female,60,5,No,2,3
+09-02-23 23:29,09-02-23 23:46,IP Address,116.71.165.85,100,1021,TRUE,09-02-23 23:46,R_2zYXzqGxZg7qxmJ,,,,,30,70,anonymous,EN,Smartphone,I own it,,0.1,Huwaei ,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,35.2,31.3,Ufone,,Prepaid,Own self,1000,Monthly,Up to 10G,Ufone,Better,"Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Somewhat confident,Fairly Confident,Fairly Confident,Fairly Confident,3,"More than 5 years
+",228_IMS (I-V) F-6/1,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",35,33,52,Basic knowledge ,1,5,4,2,6,3,7,8,9,"More than 5 years
+",Female,20,5,Its good for children,2,5
+09-02-23 23:25,09-02-23 23:48,IP Address,116.71.171.116,100,1393,TRUE,09-02-23 23:48,R_3n6Ri5KKUvVHmVg,,,,,34.1736,71.6792,anonymous,EN,Smartphone,I own it,,1,Vivo y13,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,5,5,Mobilink,,Prepaid,Own self,800,Weekly,Up to 1GB,Mobilink,Similar,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+,Other reasons
+     Ø¯ÛŒÚ¯Ø± ÙˆØ¬ÙˆÛØ§Øª
+",No,"Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+",School work .assignment ,Fairly Confident,Somewhat confident,Somewhat confident,Fairly Confident,Somewhat confident,4,"Less than 5 years
+",626_IMSG (I-VIII) Dhreak Mohri,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",55,2,25,Class management ,3,1,2,4,7,6,5,8,9,"More than 5 years
+",Female,120,40,No,2,3
+09-02-23 23:47,09-02-23 23:54,IP Address,182.191.136.9,100,418,TRUE,09-02-23 23:54,R_2TZD2JHI9js5Lan,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,10.8,2.7,Ufone,,Prepaid,Own self,1000,Monthly,Up to 10G,Ufone,Better,"Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Fairly Confident,5,"Less than 1 year
+",228_IMS (I-V) F-6/1,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",35,17,50,Basic knowledge,2,3,1,4,5,6,7,8,9,"Less than 4 years
+",Female,25,5,Good for children,2,5
+09-02-23 23:37,09-02-23 23:56,IP Address,119.154.186.103,100,1158,TRUE,09-02-23 23:56,R_1HbMfTIU6GLbOsd,,,,,34.0384,71.6085,anonymous,EN,Smartphone,I own it,,5,oppo,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,2,2,Mobilink,,Prepaid,"Family
+Ø",2500,Monthly,Do not know,Mobilink,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Not at all confident,Slightly confident,Slightly confident,Not at all confident,Not at all confident,6,"More than 5 years
+",626_IMSG (I-VIII) Dhreak Mohri,"Class 5
+Ú©Ù„Ø§Ø³ 5
+",26,20,40,Activity and lecture,3,2,1,4,7,5,8,6,9,"Less than 5 years
+",Other,20,15,It was good and little bit effective for students,2,5
+09-02-23 23:11,09-02-23 23:58,IP Address,116.71.189.44,100,2828,TRUE,09-02-23 23:58,R_BEUg9BKXttcUvN7,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,2,Infnix,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at friend or familyâ€™s home
+Ø¯ÙˆØ³Øª ÛŒØ§ Ø±Ø´ØªÛ Ø¯Ø§Ø±ÙˆÚº Ú©Û’ Ú¯Ú¾Ø± Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+","Once a month
+",5,6,Mobilink,,Postpaid,"Family
+Ø",750,Monthly,Up to 4GB,Zong,Similar,"Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,"Very Confident
+","Very Confident
+",Somewhat confident,"Very Confident
+",5,"More than 5 years
+",626_IMSG (I-VIII) Dhreak Mohri,"Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",51,7,30,Reading ,4,3,1,5,2,6,7,8,9,"More than 5 years
+",Female,30,30,Yes,2,1
+09-02-23 23:51,10-02-23 0:00,IP Address,116.71.171.116,100,523,TRUE,10-02-23 0:00,R_12FjeQjhjeLShJ7,,,,,34.1736,71.6792,anonymous,EN,Smartphone,Other,No,1,Vivo y14,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,10,10,"Others
+",No,Postpaid,Own self,1000,Monthly,Up to 10G,Zong,Similar,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+,Other reasons
+     Ø¯ÛŒÚ¯Ø± ÙˆØ¬ÙˆÛØ§Øª
+",No,"Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+",Work. Gk ,Somewhat confident,Somewhat confident,Fairly Confident,Not at all confident,Not at all confident,2,"More than 5 years
+",626_IMSG (I-VIII) Dhreak Mohri,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",49,20,53,Class mangement ,1,2,3,5,7,4,6,8,9,"Less than 1 year
+",Female,120,30,N0,2,3
+10-02-23 1:31,10-02-23 2:12,IP Address,39.40.27.161,100,2498,TRUE,10-02-23 2:12,R_1nZVRn0omDfScux,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,1,Samsung galaxy A 71,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,9.3,10.2,Ufone,,Prepaid,Own self,750,Monthly,Up to 10G,Ufone,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,"Very Confident
+","Very Confident
+",Slightly confident,Fairly Confident,4,"Less than 2 years
+",228_IMS (I-V) F-6/1,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",38,21,1,1 2 3 4 5 6,1,2,3,4,5,6,7,8,9,"Less than 3 years
+",Female,30,2,Its interesting ,2,5
+10-02-23 2:10,10-02-23 2:41,IP Address,115.186.169.127,100,1880,TRUE,10-02-23 2:41,R_2A0DbKiru4GE8pB,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,0,Infinix Note 7 lite,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a week,11.5,13.1,Ufone,,Prepaid,Own self,2000,Weekly,More than 10GB,Ufone,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Somewhat confident,Somewhat confident,"Very Confident
+",Slightly confident,3,"Less than 3 years
+","448_IMSG (I-X), Kuri","Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",32,25,48,Class rooms needs,2,3,1,4,5,7,6,8,9,"Less than 2 years
+",Female,80,50,Good,2,5
+10-02-23 2:43,10-02-23 2:56,IP Address,111.119.178.147,100,785,TRUE,10-02-23 2:56,R_2a8K8n9VKycD2jo,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,4,Samsung galaxy A150,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,42.9,3,Zong,,Prepaid,Own self,1500,Every 2 weeks,Up to 5GB,Zong,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",Somewhat confident,3,"More than 5 years
+","448_IMSG (I-X), Kuri","Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",50,17,47,Separate classroom,4,1,2,3,5,7,6,8,9,"More than 5 years
+",Female,120,1,It is easy to use. It calculates the result quickly,2,5
+10-02-23 3:02,10-02-23 3:11,IP Address,206.84.141.5,100,531,TRUE,10-02-23 3:11,R_8H3PnaK2m59ptGV,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,3,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,2,4,Telenor,,Prepaid,Own self,600,Monthly,Up to 3GB,Zong,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",2,"More than 5 years
+","448_IMSG (I-X), Kuri","Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",28,1,23,Classroom ,2,1,3,4,5,6,7,8,9,"More than 5 years
+",Female,30,1,Its easy to use and is efficient. ,2,5
+10-02-23 4:18,10-02-23 4:26,IP Address,103.141.158.29,100,451,TRUE,10-02-23 4:26,R_2s7L7UMv5LntTO5,,,,,33.6054,73.0354,anonymous,EN,Smartphone,I own it,,0,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,0.5,0.5,Ufone,,Prepaid,"Family
+Ø",1000,Monthly,Up to 10G,Ufone,Significantly better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,2,"More than 5 years
+",221_IMSG (I-VIII) F-7/1,"Class 1
+Ú©Ù„Ø§Ø³ 1
+",27,4,29,Resources,1,2,3,4,5,6,7,8,9,"Less than 3 years
+",Female,30,0,I don't dislike it,2,2
+10-02-23 4:58,10-02-23 5:17,IP Address,119.160.64.140,100,1137,TRUE,10-02-23 5:17,R_22FbOvUsw77Y3DK,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,1,Vivo,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,19.7,4.7,Mobilink,,Prepaid,Own self,2000,Weekly,More than 10GB,Mobilink,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Not at all confident,"Very Confident
+","Very Confident
+",Not at all confident,Somewhat confident,3,"More than 5 years
+","258_IMSG (I-X), G-9/1","Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",38,13,39,1,6,2,1,5,4,7,3,8,9,"More than 5 years
+",Female,5,1,Easy to do work,2,5
+10-02-23 5:06,10-02-23 5:39,IP Address,37.111.137.250,100,1937,TRUE,10-02-23 5:39,R_qvVzE6BMOtGBdRv,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,8,Redmi 9T,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",Throughout the day,1.5,5,Telenor,,Prepaid,Own self,700,Monthly,More than 10GB,Zong,Similar,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Games
+Ú¯ÛŒÙ…Ø²
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",2,"More than 5 years
+","416_IMSB (I-X), Phulgran","Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",30,4,28,,1,3,2,5,4,6,8,7,9,"More than 5 years
+",Male,40,1,Because it's very convenient,2,5
+09-02-23 21:09,10-02-23 6:03,IP Address,39.50.94.83,100,32033,TRUE,10-02-23 6:03,R_egQIiPKgc0ZS5hL,,,,,33.6054,73.0354,anonymous,EN,Smartphone,I own it,,1,Jazz samrt3,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+","Once a month
+",10.7,0.9,Mobilink,,Prepaid,Own self,1000,Monthly,Up to 10G,Mobilink,Significantly better,"Other reasons
+     Ø¯ÛŒÚ¯Ø± ÙˆØ¬ÙˆÛØ§Øª
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+",Make a Letter plan and lesson plan for daily ,Not at all confident,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",6,"Less than 2 years
+",511_IMSG (I-X) Gagri,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",38,5,36,Lesson plan and option number 7,4,3,2,1,5,6,8,7,9,"Less than 1 year
+",Female,35,15,Student ko araam se unit samjhane main bht madadat milti ha ,2,2
+10-02-23 8:05,10-02-23 8:22,IP Address,39.33.152.227,100,1000,TRUE,10-02-23 8:22,R_24NPb7zG6z0IP9u,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,1,techno camon 15 pro,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,14.3,14.3,Telenor,,Prepaid,Own self,800,Monthly,Up to 2GB,"Telenor
+",Significantly better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,"Very Confident
+","Very Confident
+",Somewhat confident,Somewhat confident,4,"More than 5 years
+",573_IMSG (I-V) CBR Colony,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",35,27,50,,1,2,4,3,5,6,8,7,9,"More than 5 years
+",Female,20,5,Effective teaching,2,5
+10-02-23 8:58,10-02-23 9:10,IP Address,206.84.145.23,100,683,TRUE,10-02-23 9:10,R_1H1wJ4MXfKm3z3S,,,,,33.7233,73.0435,anonymous,EN,Smartphone,Other,Collegue,1,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,2.5,0,Zong,,Prepaid,Own self,2500,Monthly,Up to 10G,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",6,"More than 5 years
+",230_IMS (I-V) F-7/2-4,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",85,6,33,That students should follow guide from their teacher,2,1,4,8,7,6,5,3,9,"More than 5 years
+",Female,60,5,Enjoy,2,5
+10-02-23 6:31,10-02-23 11:50,IP Address,39.50.108.111,100,19140,TRUE,10-02-23 11:50,R_9mBMxs51ZoOJ9ER,,,,,33.6054,73.0354,anonymous,EN,Smartphone,I own it,,0,Huawei nova 7i ,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,5,1,Zong,,Prepaid,Own self,1000,Monthly,Up to 10G,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Not at all confident,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,3,"Less than 5 years
+",521_IMSG (I-V) Peija,"Class 1
+Ú©Ù„Ø§Ø³ 1
+,Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",20,17,47,13254789,1,4,2,3,7,6,5,8,9,"Less than 5 years
+",Female,10,1,Easy to use,2,5
+12-02-23 23:07,12-02-23 23:27,IP Address,111.119.191.3,100,1221,TRUE,12-02-23 23:27,R_NWlmyDLDUhQR8yJ,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,1,Jazz,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,2,2,Mobilink,,Prepaid,Own self,500,Weekly,Up to 500,Mobilink,Significantly better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+",Fairly Confident,Somewhat confident,"Very Confident
+","Very Confident
+",5,"Less than 3 years
+",647_IMSB (I-V) Golra,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",408,8,34,Ù¹Ø§Ø¦Ù…,1,2,3,4,5,6,7,8,9,"Less than 2 years
+",Male,10,1,No,2,4
+09-02-23 8:34,13-02-23 22:16,IP Address,182.191.157.111,100,394962,TRUE,13-02-23 22:16,R_3FPAaqRipf0dzRb,,,,,31.5511,74.3437,anonymous,EN,Smartphone,I own it,,2,oppo,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,7.9,3.2,Ufone,,Prepaid,Own self,1500,Monthly,Up to 4GB,Ufone,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,Somewhat confident,Somewhat confident,Somewhat confident,Fairly Confident,2,"More than 5 years
+","456_IMSG (I-X), Noor PurShahan","Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",56,30,50,"5,6,2",2,5,4,3,9,1,6,7,8,"Less than 1 year
+",Female,30,30,take a lot of time,2,2
+13-02-23 22:28,13-02-23 22:36,IP Address,182.191.159.89,100,515,TRUE,13-02-23 22:36,R_3q9T9u6CvvVoBBP,,,,,30,70,anonymous,EN,Smartphone,I own it,,3,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,6.8,6.8,Ufone,,Postpaid,Own self,1500,Monthly,Up to 4GB,Ufone,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,Fairly Confident,Fairly Confident,Fairly Confident,Somewhat confident,2,"Less than 3 years
+","456_IMSG (I-X), Noor PurShahan","Class 1
+Ú©Ù„Ø§Ø³ 1
+",55,10,31,"1,2,3,4",4,1,2,3,5,6,7,8,9,"Less than 3 years
+",Female,30,30,No issue,2,2
+13-02-23 22:38,13-02-23 22:49,IP Address,116.71.169.139,100,640,TRUE,13-02-23 22:49,R_bfJ8lXjvUYYZFVT,,,,,30,70,anonymous,EN,Smartphone,I own it,,3,Samsung,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,11.8,11,Ufone,,Postpaid,Own self,1500,Monthly,Up to 4GB,Ufone,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+,Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Not at all confident,Fairly Confident,Fairly Confident,Somewhat confident,2,"Less than 5 years
+","456_IMSG (I-X), Noor PurShahan","Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",69,24,43,"1,2,3,5",5,3,2,1,4,6,8,7,9,"Less than 3 years
+",Female,45,30,It is benefical for students,2,5
+13-02-23 23:06,13-02-23 23:15,IP Address,111.119.178.188,100,530,TRUE,13-02-23 23:15,R_3qNEhnjgHexzdyK,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1,Techno,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a week,3,3,Ufone,,Prepaid,Own self,500,Monthly,Up to 3GB,Ufone,Better,"More expensive
+  Ø²ÛŒØ§Ø¯Û Ù…ÛÙ†Ú¯Ø§ ÛÛ’ Û”
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Not at all confident,Somewhat confident,Fairly Confident,Slightly confident,Somewhat confident,2,"Less than 4 years
+",645_IMSB (I-V) Bokra,"Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",25,20,49,Text book,2,1,5,4,8,3,6,7,9,"Less than 1 year
+",Male,20,1,Mi school app is best ,2,1
+13-02-23 23:04,13-02-23 23:20,IP Address,182.191.147.102,100,958,TRUE,13-02-23 23:20,R_aXDKub9oPjCvheh,,,,,30,70,anonymous,EN,Smartphone,I own it,,10,Infinix,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,3,10,Ufone,,Postpaid,Own self,750,Monthly,Up to 2GB,Zong,Similar,"Inconvenience of changing number
+Ù†Ù…Ø¨Ø± ØªØ¨Ø¯ÛŒÙ„ Ú©Ø±Ù†Û’ Ù…ÛŒÚº Ø¯Ø´ÙˆØ§Ø±ÛŒ 
+",,"Calls / text messaging (no internet)
+Ú©Ø§Ù„Ø² / Ù¹ÛŒÚ©Ø³Ù¹ Ù…ÛŒØ³Ø¬Ù†Ú¯ (Ú©ÙˆØ¦ÛŒ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ù†ÛÛŒÚº) 
+,Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Slightly confident,Somewhat confident,Fairly Confident,Somewhat confident,Somewhat confident,2,"More than 5 years
+","258_IMSG (I-X), G-9/1","Class 1
+Ú©Ù„Ø§Ø³ 1
+",35,19,43,7,3,2,1,4,5,6,9,7,8,"More than 5 years
+",Female,45,40,Its not provided start on session ,2,1
+13-02-23 23:18,13-02-23 23:33,IP Address,111.119.178.188,100,874,TRUE,13-02-23 23:33,R_26gVEdSQwSQ9lpl,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,1,Huwai Y7 2018,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,3,3,Mobilink,,Prepaid,Own self,400,Monthly,Up to 2GB,Mobilink,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,"Very Confident
+","Very Confident
+",Fairly Confident,Fairly Confident,3,"More than 5 years
+",645_IMSB (I-V) Bokra,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",12,2,26,Text book,2,3,4,1,5,6,7,8,9,"More than 5 years
+",Male,15,1,Easy to use ,2,5
+10-02-23 11:50,14-02-23 1:46,IP Address,103.255.7.37,100,309392,TRUE,14-02-23 1:46,R_3Mn8gJzx1jVFwVk,,,,,33.6874,73.0555,anonymous,EN,Smartphone,I own it,,12,Redmi10  model 21061119AG,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,0.5,0.2,Zong,,Prepaid,Own self,1500,Monthly,Up to 2GB,Zong,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+","Calls ,text messages,internet",Somewhat confident,Somewhat confident,Fairly Confident,Fairly Confident,Fairly Confident,3,"More than 5 years
+","258_IMSG (I-X), G-9/1","Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",36,15,40,Books ,1,5,2,3,4,7,6,8,9,"More than 5 years
+",Female,30,2,Easy to use ,2,3
+14-02-23 11:07,14-02-23 11:28,IP Address,206.84.150.63,100,1234,TRUE,14-02-23 11:28,R_qD8iPOmeyFHbJBv,,,,,33.7233,73.0435,anonymous,EN,Smartphone,I own it,,10,Infinix A10play,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,6,6,Ufone,,Prepaid,Own self,800,Monthly,Up to 1GB,Ufone,Similar,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Fairly Confident,Fairly Confident,"Very Confident
+","Very Confident
+",Fairly Confident,3,"More than 5 years
+",718_IMSB (I-VIII) Alipur,"Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",25,16.5,40,45170,2,1,3,6,4,7,5,8,9,"More than 5 years
+",Male,30,5,Nothing,2,3
+14-02-23 3:30,15-02-23 7:04,IP Address,103.149.240.34,100,99248,TRUE,15-02-23 7:04,R_12qVHoGcw3MNOdB,,,,,33.6054,73.0354,anonymous,EN,Smartphone,I own it,,1,Smart phone,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,0.7,0.7,Ufone,,Prepaid,Own self,7,Monthly,Up to 3GB,Ufone,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Fairly Confident,"Very Confident
+","Very Confident
+",Fairly Confident,Fairly Confident,2,"More than 5 years
+","290_IMS (I-V) No. 2, I-10/1","Class 3
+  Ú©Ù„Ø§Ø³ 3 
+,Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",37,27,49,Class environment ,2,1,3,4,5,6,7,8,9,"Less than 1 year
+",Female,50,20,Yes,2,5
+15-02-23 21:49,15-02-23 22:28,IP Address,111.119.178.183,100,2316,TRUE,15-02-23 22:28,R_esXXMbOysaDGXzX,,,,,34.0083,71.5812,anonymous,EN,Smartphone,I own it,,3,Oppo ,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,8.9,12.5,Zong,,Prepaid,Own self,2000,Weekly,More than 10GB,Zong,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Slightly confident,Fairly Confident,Somewhat confident,Fairly Confident,Fairly Confident,3,"Less than 3 years
+","428_IMSB (I-V), Mangial,","Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",18,12,39,Activity ,2,4,1,3,5,6,7,8,9,"Less than 3 years
+",Male,3,10,Like,2,4
+15-02-23 22:50,15-02-23 23:13,IP Address,111.119.178.183,100,1363,TRUE,15-02-23 23:13,R_3j3eIHDqfzHxkBn,,,,,34.0083,71.5812,anonymous,EN,Smartphone,One of my household members owns it,,1,Infinx,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,12.2,10.2,Zong,,Prepaid,Own self,1500,Monthly,Up to 5GB,Zong,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Slightly confident,Slightly confident,Somewhat confident,Somewhat confident,Somewhat confident,2,"Less than 1 year
+","428_IMSB (I-V), Mangial,","Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",20,11,46,Activity,1,2,3,4,5,6,7,8,9,"Less than 1 year
+",Male,202,25,Iike,2,4
+15-02-23 1:40,16-02-23 1:12,IP Address,39.32.200.178,100,84713,TRUE,16-02-23 1:12,R_ZIXs6NOOttcTVgl,,,,,33.6054,73.0354,anonymous,EN,Smartphone,I own it,,1,Infinix  .model x680B,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,9,9,Telenor,,Prepaid,"Family
+Ø",2500,Monthly,Up to 3GB,Zong,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",Somewhat confident,2,"Less than 3 years
+","290_IMS (I-V) No. 2, I-10/1","Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 3
+  Ú©Ù„Ø§Ø³ 3 
+",40,14,36,check mental abilities of students,3,1,2,5,4,7,6,9,8,"Less than 1 year
+",Female,4,2,No,2,5
+13-02-23 21:35,16-02-23 2:17,IP Address,37.111.140.63,100,189726,TRUE,16-02-23 2:17,R_YQZUl1vHcXaeV5n,,,,,31.5511,74.3437,anonymous,EN,"Tablet
+",I own it,,1,Infinixs,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Other internet source
+ Ø¯ÛŒÚ¯Ø± Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Û’ Ø°Ø±Ø§Ø¦Ø¹
+",A few times a day,0.7,1.5,Telenor,,Prepaid,Own self,2000,Monthly,More than 10GB,Zong,Similar,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Other uses
+) Ø¯ÛŒÚ¯Ø± Ø§Ø³ØªØ¹Ù…Ø§Ù„Ø§ØªÛ”(ÙˆØ¶Ø§Ø­Øª Ú©Ø±ÛŒÚº
+",Google ,"Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+","Very Confident
+",4,"More than 5 years
+","428_IMSB (I-V), Mangial,","Class 5
+Ú©Ù„Ø§Ø³ 5
+",24,14,47,3,1,2,3,5,4,6,7,8,9,"More than 5 years
+",Male,50,2,Very informative ,2,4
+14-02-23 7:02,16-02-23 4:09,IP Address,182.188.151.147,100,162395,TRUE,16-02-23 4:09,R_ZKOYVOsAmY7Igdb,,,,,32.9765,73.6968,anonymous,EN,Smartphone,I own it,,6,Vivo ,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+,Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+,Internet device at school
+
+Ø³Ú©ÙˆÙ„ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",A few times a day,1.9,0.4,Ufone,,Prepaid,"Family
+Ø",3000,Monthly,Up to 4GB,Ufone,Similar,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+,Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Social media (using Facebook, TikTok etc.)
+Ø³ÙˆØ´Ù„ Ù…ÛŒÚˆÛŒØ§ (ÙÛŒØ³ Ø¨Ú© ØŒ Ù¹Ú© Ù¹Ø§Ú© ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Games
+Ú¯ÛŒÙ…Ø²
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,Somewhat confident,Somewhat confident,Fairly Confident,Fairly Confident,Fairly Confident,3,"More than 5 years
+","290_IMS (I-V) No. 2, I-10/1","Class 2
+
+Ú©Ù„Ø§Ø³ 2
+,Class 5
+Ú©Ù„Ø§Ø³ 5
+",35,2449,49,1,1,3,2,4,5,6,7,8,9,"More than 5 years
+",Female,60,1,Like ,2,2
+16-02-23 5:10,16-02-23 5:20,IP Address,119.160.64.223,100,625,TRUE,16-02-23 5:20,R_2zNt5jy4tyFlW4x,,,,,33.6054,73.0354,anonymous,EN,Smartphone,I own it,,5,Vivo,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+",A few times a day,11.3,14.5,Mobilink,,Prepaid,Own self,2100,Weekly,More than 10GB,Mobilink,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,Somewhat confident,3,"Less than 5 years
+","428_IMSB (I-V), Mangial,","Class 1
+Ú©Ù„Ø§Ø³ 1
+",27,4,32,Activity ,1,2,5,4,6,7,8,3,9,"More than 5 years
+",Male,3,20,Like,2,4
+16-02-23 10:08,16-02-23 10:29,IP Address,39.45.93.64,100,1310,TRUE,16-02-23 10:29,R_3QEubyBK8KvF8h5,,,,,32.2918,72.7052,anonymous,EN,Smartphone,I own it,,4,Redmi S2,"Internet device at my home
+
+Ú¯Ú¾Ø± Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ ÚˆÛŒÙˆØ§Ø¦Ø³ 
+
+",Throughout the day,1,1,"Others
+",Ptcl,Prepaid,Own self,1000,Monthly,More than 10GB,Ufone,Better,"Already using the best provider in my area
+Ù…ÛŒÚº Ù¾ÛÙ„Û’ Ø³Û’  Ø§Ù¾Ù†Û’ Ø¹Ù„Ø§Ù‚Û’ Ù…ÛŒÚº Ù…ÙˆØ¬ÙˆØ¯  Ø¨ÛØªØ±ÛŒÙ† ÙØ±Ø§ÛÙ… Ú©Ù†Ù†Ø¯Û Ú©Ø§ Ù†ÛŒÙ¹ ÙˆØ±Ú©  Ø§Ø³ØªØ¹Ù…Ø§Ù„  Ú©Ø± Ø±ÛØ§/Ø±ÛÛŒ ÛÙˆÚº
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+,Work purpose e.g., emailing
+Ú©Ø§Ù… Ú©Û’  Ù…Ù‚ØµØ¯  Ú©Û’ Ù„Ø¦Û’ Ø¬ÛŒØ³Ø§ Ú©Û  ØŒ Ø§ÛŒ Ù…ÛŒÙ„ Ú©Ø±Ù†Ø§
+",,"Very Confident
+",Fairly Confident,Fairly Confident,"Very Confident
+","Very Confident
+",4,"More than 5 years
+","290_IMS (I-V) No. 2, I-10/1","Class 4
+
+Ú©Ù„Ø§Ø³ 4 
+",36,35,56,6 and 7 ,1,2,3,4,5,6,7,8,9,"Less than 1 year
+",Female,60,0,5,2,4
+16-02-23 1:08,16-02-23 21:20,IP Address,103.255.7.26,100,72732,TRUE,16-02-23 21:20,R_10rrJpiW4J1zF0e,,,,,33.7233,73.0435,anonymous,EN,Smartphone,One of my household members owns it,,1,Red me,"Mobile data plan
+
+Ù…ÙˆØ¨Ø§Ø¦Ù„ ÚˆÛŒÙ¹Ø§ Ù¾Ù„Ø§Ù†
+
+","Once a week
+",11.2,10.3,Zong,,Prepaid,Own self,1200,Monthly,Up to 5GB,Zong,Better,"Friends and family using current provider
+  Ø¯ÙˆØ³ØªÙˆÚº Ø§ÙˆØ± Ø®Ø§Ù†Ø¯Ø§Ù† Ú©Û’ Ù¾Ø§Ø³  ÛŒÛ ÛÛŒ  Ù†ÛŒÙ¹ ÙˆØ±Ú© ÛÛ’Û” 
+",,"Internet calls / messaging (using WhatsApp, Telegram etc.)
+ Ø§Ù†Ù¹Ø±Ù†ÛŒÙ¹ Ú©Ø§Ù„Ø² / Ù…ÛŒØ³Ø¬Ù†Ú¯ (ÙˆØ§Ù¹Ø³ Ø§ÛŒÙ¾ ØŒ Ù¹ÛŒÙ„ÛŒ Ú¯Ø±Ø§Ù… ÙˆØºÛŒØ±Û Ú©Ø§ Ø§Ø³ØªØ¹Ù…Ø§Ù„ Ú©Ø±ØªÛ’ ÛÙˆØ¦Û’)
+",,Slightly confident,Somewhat confident,Somewhat confident,Not at all confident,Somewhat confident,2,"Less than 1 year
+","428_IMSB (I-V), Mangial,","Class 2
+
+Ú©Ù„Ø§Ø³ 2
+",18,12,52,Activity ,2,1,3,4,5,6,7,8,9,"Less than 1 year
+",Male,20,40,Iike,2,4
